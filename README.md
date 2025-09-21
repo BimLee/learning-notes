@@ -6,9 +6,9 @@ This repository contains my personal study notes on DeepLearning, ISP, image pro
 The goal is to build a long-term, reusable knowledge base.
 
 ## 📂 Documentation
-- [DeepLearning](./docs/DeepLearning)
+- [DeepLearning](./docs/Deep_Learning)
 - [ISP](./docs/ISP)
-- [image processing](./docs/imageprocessing)
+- [image processing](./docs/image_processing)
 - [Tools](./docs/Tools)
 - [Others](./docs/Others)
 
