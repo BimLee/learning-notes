@@ -2,11 +2,11 @@
 
 English | [中文](./README-zh.md)
 
-This repository contains my personal study notes on Deep Learning, ISP, image processing, and development tools.  
+This repository contains my personal study notes on DeepLearning, ISP, image processing, and development tools.  
 The goal is to build a long-term, reusable knowledge base.
 
 ## 📂 Documentation
-- [AI](./docs/Deep Learning)
+- [AI](./docs/DeepLearning)
 - [ISP](./docs/ISP)
 - [Tools](./docs/Tools)
 - [Others](./docs/Others)
