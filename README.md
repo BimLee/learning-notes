@@ -1,4 +1,3 @@
-# learning-notes-
 # 📚 学习笔记 Learning Notes
 
 这是我的学习笔记仓库，记录了在 AI、ISP、工具使用等方面的总结。  
