@@ -2,11 +2,11 @@
 
 [English](./README.md) | 中文
 
-这是我的学习笔记仓库，记录了在深度学习、ISP、图像处理和工具使用等方面的总结。  
+这是我的学习笔记仓库，记录了在DeepLearning、ISP、图像处理和工具使用等方面的总结。  
 目标是建立一个长期积累、可复用的知识库，方便复习和分享。
 
 ## 📂 文档目录
-- [深度学习](./docs/深度学习)
+- [DeepLearning](./docs/DeepLearning)
 - [ISP](./docs/ISP)
 - [Tools](./docs/Tools)
 - [Others](./docs/Others)
