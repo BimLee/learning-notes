@@ -8,6 +8,7 @@ The goal is to build a long-term, reusable knowledge base.
 ## 📂 Documentation
 - [DeepLearning](./docs/DeepLearning)
 - [ISP](./docs/ISP)
+- [image processing(./docs/image processing)]
 - [Tools](./docs/Tools)
 - [Others](./docs/Others)
 
